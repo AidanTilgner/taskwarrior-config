@@ -1,0 +1,10 @@
+aidan_tilgner.cert.pem
+aidan_tilgner.key.pem
+ca.cert.pem
+
+*.data
+
+logs/
+
+*.tar
+*.gz
